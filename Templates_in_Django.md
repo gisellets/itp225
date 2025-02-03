@@ -1,6 +1,6 @@
 # Notes for "Using Templates in Django" #
 - Templates: HTML files with placeholders where dynamic data is inserted.
-### Why Use Templates: Makes adding dynamic data to HTML easier and keeps code clean and organized.###
+### Why Use Templates: Makes adding dynamic data to HTML easier and keeps code clean and organized. ###
 
 ## Template Render Process ##
 1. Render Data (dictionary with objects) + Template (HTML with placeholders)
